@@ -68,3 +68,28 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+Cómo Jugar:
+
+Cuando se inicia la aplicación, ingresa tu nombre en el campo proporcionado y haz clic en "Comenzar el juego".
+
+El juego te mostrará un tablero de cartas boca abajo.
+
+Haz clic en dos cartas para voltearlas y ver su contenido.
+
+Si las dos cartas coinciden, permanecerán boca arriba y se eliminarán del juego.
+
+Si las dos cartas no coinciden, se volverán a voltear después de un breve período.
+
+El juego continúa hasta que todas las cartas estén emparejadas.
+
+Una vez que hayas emparejado todas las cartas, se mostrará un mensaje de felicitaciones con tu nombre.
+
+¡Disfruta jugando al juego de memoria!
+
+Notas Adicionales:
+
+Este juego de memoria utiliza React y useState para gestionar el estado de la aplicación.
+Las imágenes de las cartas y sus nombres son configurables y se pueden personalizar fácilmente en el código.
+Espero que esta información te sea útil. Si tienes alguna pregunta adicional o necesitas más ayuda, no dudes en preguntar. ¡Diviértete jugando al juego de memoria!
